@@ -1,7 +1,6 @@
-## Blood, Sweat, and Pixels: The Triumphant, Turbulent Stories Behind How Video Games Are Made
+## Never Split The Difference: Negotiating as if Your Life Depended on It
 
-#### Author: Jason Schreier
+#### Author: Chris Voss
 
-Last read: 18 Febraury 2022  
+Last read: 20 March 2023  
 Recommended: yes  
-
