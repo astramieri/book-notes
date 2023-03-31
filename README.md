@@ -9,4 +9,4 @@ A simple note-taking repository for books I have read. Inspired by [Derek Sivers
 [2022-04] [Atomic Habits](/books/atomic_habits.md) by James Clear  
 [2022-02] [Blood, Sweat, and Pixels](/books/blood_sweat_pixels.md) by Jason Schreier  
 [2022-01] [The First 20 Hours](/books/the_first_20_hours.md) by Josh Kaufman  
-[2021-12] [The Almanack of Naval Ravikant]/books/the_almanack_of_naval_ravikant.md) by Eric Jorgenson  
+[2021-12] [The Almanack of Naval Ravikant](/books/the_almanack_of_naval_ravikant.md) by Eric Jorgenson  
