@@ -8,4 +8,4 @@ A simple note-taking repository for books I have read. Inspired by [Derek Sivers
 [2022-12] [A Random Walk Down Wall Street](/books/a_random_walk_down_wall_street.md) by Burton G. Malkiel  
 [2022-04] [Atomic Habits](/books/atomic_habits.md) by James Clear  
 [2022-02] [Blood, Sweat, and Pixels](/books/blood_sweat_pixels.md) by Jason Schreier  
-
+[2022-01] [The First 20 Hours](/books/the_first_20_hours.md) by Josh Kaufman   
