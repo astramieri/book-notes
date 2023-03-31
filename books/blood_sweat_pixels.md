@@ -2,5 +2,5 @@
 
 #### Author: Jason Schreier
 
-Last read: 18 Febraury 2022  
+Last read: 18 February 2022  
 Recommended: yes  
