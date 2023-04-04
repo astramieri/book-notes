@@ -10,5 +10,6 @@ A simple note-taking repository for books I have read. Inspired by [Derek Sivers
 [2022-02] [Blood, Sweat, and Pixels](/books/blood_sweat_pixels.md) by Jason Schreier  
 [2022-01] [The First 20 Hours](/books/the_first_20_hours.md) by Josh Kaufman  
 [2021-12] [The Almanack of Naval Ravikant](/books/the_almanack_of_naval_ravikant.md) by Eric Jorgenson  
+[2021-11] [The Subtle Art of Not Giving a F*ck](/books/the_subtle_art_not_giving_fuck.md) by Mark Manson  
 [2021-10] [Hackers & Painters](/books/hackers_and_painters.md) by Paul Graham  
 [2020-01] [The Bitcoin Standard](/books/the_bitcoin_standard.md) by Saifedean Ammous  
