@@ -1,6 +1,7 @@
 # Book Notes :books:
 A simple note-taking repository for books I have read. Inspired by [Derek Sivers](https://sive.rs/book).  
 
+[2023-04] [Positioning](/books/positioning.md) by Al Ries & Jack Trout  
 [2023-03] [The Lean Startup](/books/the_lean_startup.md) by Eric Ries  
 [2023-03] [Never Split The Difference](/books/never_split_the_difference.md) by Chris Voss  
 [2023-02] [Deep Work](/books/deep_work.md) by Cal Newport  
