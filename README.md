@@ -15,5 +15,5 @@ A simple note-taking repository for books I have read. Inspired by [Derek Sivers
 [2021-11] [The Subtle Art of Not Giving a F*ck](/books/the_subtle_art_not_giving_fuck.md) by Mark Manson  
 [2021-10] [Hackers & Painters](/books/hackers_and_painters.md) by Paul Graham  
 [2020-01] [The Bitcoin Standard](/books/the_bitcoin_standard.md) by Saifedean Ammous  
-[2019-09] [Rich Dad Poor Dad](/books/rich_dad_pour_dad.md) by Robert Kiyosaki
+[2019-09] [Rich Dad Poor Dad](/books/rich_dad_pour_dad.md) by Robert Kiyosaki  
 [2019-01] [The 4-Hour Work Week](/books/the_four_hour_work_week.md) by Tim Ferriss  
