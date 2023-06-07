@@ -17,3 +17,4 @@ A simple note-taking repository for books I have read. Inspired by [Derek Sivers
 [2020-01] [The Bitcoin Standard](/books/the_bitcoin_standard.md) by Saifedean Ammous  
 [2019-09] [Rich Dad Poor Dad](/books/rich_dad_poor_dad.md) by Robert Kiyosaki  
 [2019-01] [The 4-Hour Work Week](/books/the_four_hour_work_week.md) by Tim Ferriss  
+[2015-12] [Logical Chess](/books/logical_chess.md) by Irving Chernev  
