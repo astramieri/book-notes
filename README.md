@@ -1,6 +1,7 @@
 # Book Notes :books:
 A simple note-taking repository for books I have read. Inspired by [Derek Sivers](https://sive.rs/book).  
 
+[2023-06] [Memorie di Adriano](/books/memorie_adriano.md) by Marguerite Yourcenar  
 [2023-05] [When](/books/when.md) by Daniel H Pink  
 [2023-04] [Positioning](/books/positioning.md) by Al Ries & Jack Trout  
 [2023-03] [The Lean Startup](/books/the_lean_startup.md) by Eric Ries  
