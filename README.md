@@ -1,4 +1,4 @@
-# Book Notes :books:
+# Book Notes :notebook:
 A simple note-taking repository for books I have read. Inspired by [Derek Sivers](https://sive.rs/book).  
 
 [2023-09] [Company of One](/books/company_of_one.md) by Paul Jarvis  
