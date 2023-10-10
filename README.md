@@ -1,6 +1,7 @@
 # Book Notes :notebook:
 A simple note-taking repository for books I have read. Inspired by [Derek Sivers](https://sive.rs/book).  
 
+[2023-10] [Ego Is the Enemy](/books/ego_is_the_enemy.md) by Ryan Holiday  
 [2023-09] [Company of One](/books/company_of_one.md) by Paul Jarvis  
 [2023-06] [Memorie di Adriano](/books/memorie_adriano.md) by Marguerite Yourcenar  
 [2023-05] [When](/books/when.md) by Daniel H Pink  
