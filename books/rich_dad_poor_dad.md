@@ -3,4 +3,4 @@
 #### Author: Robert T. Kiyosaki  
 
 Last read: 15 September 2019  
-Recommended: yes  
+Recommended: absolutely not!
