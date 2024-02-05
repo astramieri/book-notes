@@ -2,9 +2,12 @@
 
 A simple note-taking repository for books I have read. Inspired by [Derek Sivers](https://sive.rs/book).
 
-2023
+2024
 
 - [2024-01] [Indistractable](/books/indistractable.md) by Nir Eyal
+
+2023
+
 - [2023-11] [Tools of Titans](/books/tools_of_titans.md) by Tim Ferris
 - [2023-10] [Ego Is the Enemy](/books/ego_is_the_enemy.md) by Ryan Holiday
 - [2023-09] [Company of One](/books/company_of_one.md) by Paul Jarvis
