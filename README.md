@@ -4,6 +4,7 @@ A simple note-taking repository for books I have read. Inspired by [Derek Sivers
 
 2024
 
+- [2024-04] [Indistractable](/books/12_rules_of_lifes.md) by Jordan B. Peterson 
 - [2024-01] [Indistractable](/books/indistractable.md) by Nir Eyal
 
 2023
