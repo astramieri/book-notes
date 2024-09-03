@@ -4,6 +4,7 @@ A simple note-taking repository for books I have read. Inspired by [Derek Sivers
 
 2024
 
+- [2024-08] [The Consulting Bible](/books/the_consulting_bible.md) by Alan Weiss 
 - [2024-07] [The One Thing](/books/the_one_thing.md) by Gary Keller 
 - [2024-04] [12 Rules for Life](/books/12_rules_for_life.md) by Jordan B. Peterson 
 - [2024-01] [Indistractable](/books/indistractable.md) by Nir Eyal
