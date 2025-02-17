@@ -2,6 +2,10 @@
 
 A simple note-taking repository for books I have read. Inspired by [Derek Sivers](https://sive.rs/book).
 
+2025
+
+- [2025-02] [Skin in The Game](/books/skin_in_the_game.md) by Nassim Taleb
+
 2024
 
 - [2024-08] [The Consulting Bible](/books/the_consulting_bible.md) by Alan Weiss 
