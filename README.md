@@ -5,6 +5,7 @@ A simple note-taking repository for books I have read. Inspired by [Derek Sivers
 2025
 
 - [2025-02] [Skin in The Game](/books/skin_in_the_game.md) by Nassim Taleb
+- [2025-08] [Dune](/books/dune.md) by Frank Herbert
 
 2024
 
