@@ -60,3 +60,4 @@ A simple note-taking repository for books I have read. Inspired by [Derek Sivers
 2013
 
 - [2013-09] [Seven Habits of Highly Effective People](/books/the_seven_habits.md) by Stephen Covey
+
