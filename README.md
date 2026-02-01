@@ -2,6 +2,18 @@
 
 A simple note-taking repository for books I have read. Inspired by [Derek Sivers](https://sive.rs/book).
 
+2025
+
+- [2025-02] [Skin in The Game](/books/skin_in_the_game.md) by Nassim Taleb
+- [2025-08] [Dune](/books/dune.md) by Frank Herbert
+
+2024
+
+- [2024-08] [The Consulting Bible](/books/the_consulting_bible.md) by Alan Weiss 
+- [2024-07] [The One Thing](/books/the_one_thing.md) by Gary Keller 
+- [2024-04] [12 Rules for Life](/books/12_rules_for_life.md) by Jordan B. Peterson 
+- [2024-01] [Indistractable](/books/indistractable.md) by Nir Eyal
+
 2023
 
 - [2023-11] [Tools of Titans](/books/tools_of_titans.md) by Tim Ferris
